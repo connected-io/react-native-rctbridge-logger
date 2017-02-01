@@ -14,7 +14,8 @@
     "url": "github.com:connected-lab/react-native-rctbridge-logger.git"
   },
   "author": "",
-  "license": "",
+  "license": "MIT",
+  "homepage": "https://github.com/connected-lab/react-native-rctbridge-logger",
   "peerDependencies": {
     "react-native": "^0.40.0"
   }
