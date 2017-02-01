@@ -1,0 +1,21 @@
+
+{
+  "name": "react-native-rctbridge-logger",
+  "version": "1.0.0",
+  "description": "Simple react-native module that allows Javascript to print to native logs",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "logger",
+    "native"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "github.com:connected-lab/react-native-rctbridge-logger.git"
+  },
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.40.0"
+  }
+}
