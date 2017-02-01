@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-rctbridge-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple react-native module that allows Javascript to print to native logs",
   "main": "index.js",
   "keywords": [
